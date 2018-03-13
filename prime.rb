@@ -13,7 +13,7 @@ def prime?(num)
     end
 
     i += 1
-    break if i == num - 1
+    break if i == num
   end
 
   true
